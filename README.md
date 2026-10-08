@@ -52,3 +52,11 @@ Download `outputs/generator.pth` before the session ends.
 | download_data.py | Downloads Oxford Flowers-102 |
 | train.py | GAN training loop, validation, sample grids, loss curves |
 | app.py | Gradio demo: upload photo -> colorized result |
+
+## Results
+
+![Result 1](images/demo_1.png)
+![Result 2](images/demo_2.png)
+![Result 3](images/demo_3.png)
+![Result 4](images/demo_4.png)
+![Result 5](images/demo_5.png)
