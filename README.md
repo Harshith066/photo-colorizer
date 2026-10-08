@@ -64,7 +64,7 @@ The model beats the baseline by about 9%, which is a real but modest improvement
 
 Python with a virtual environment is recommended. The trained model is not stored in this repository (it is about 217 MB), so download it first:
 
-**Trained model:** `<paste your Google Drive link here>`
+**Trained model:** `<https://drive.google.com/file/d/1E9jmC7MrkzN8yjP6X-PMmf9vb0RrdXGk/view?usp=sharing>`
 
 Place it at `outputs/generator.pth`, then:
 
